@@ -1,8 +1,8 @@
-# 🎓 Student Performance Analysis
+# Student Performance Analysis
 
 A data science project analyzing student exam performance using Python, MongoDB, and machine learning techniques.
 
-## 🚀 Features
+## Features
 - Data stored and queried with MongoDB
 - Data analysis using Pandas & NumPy
 - Visualizations using Matplotlib
@@ -11,10 +11,10 @@ A data science project analyzing student exam performance using Python, MongoDB,
   - K-Means for clustering
   - Linear Regression for score prediction
 
-## 🧰 Technologies
+## Technologies
 Python, MongoDB, Pandas, NumPy, Matplotlib, Scikit-learn
 
-## 📊 Results
+## Results
 - SVM Accuracy: **100%**
 - Regression R² Score: **0.91**
 - Optimal K (Clusters): **3**
